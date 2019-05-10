@@ -4,6 +4,6 @@ Final year university project to design an open source build your own bike, adju
 
 The bike comes as a kit, allowing the user to easily assemble the frame with minimal tooling and adjust for their specific needs. Designs have been made which allow transitions to a cargo layout with plans for a full family of layouts and joints to be developed.
 
-This is a repository for CAD files and other material useful to the project.
+This is a repository for CAD files and other material useful to the project, covered by the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) License.
 
 ![Logo](https://user-images.githubusercontent.com/47890972/56202836-cec71000-603b-11e9-81f9-e82b58718c6d.png)
