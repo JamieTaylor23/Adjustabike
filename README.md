@@ -7,3 +7,7 @@ The bike comes as a kit, allowing the user to easily assemble the frame with min
 This is a repository for CAD files and other material useful to the project, covered by the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) License.
 
 ![Logo](https://user-images.githubusercontent.com/47890972/56202836-cec71000-603b-11e9-81f9-e82b58718c6d.png)
+
+# Watch the Video!
+
+[![Watch the video](https://img.youtube.com/vi/w_4GJnhUDh0/hqdefault.jpg)](https://youtu.be/w_4GJnhUDh0)
