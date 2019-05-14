@@ -12,7 +12,7 @@ Advantages of the concept:
 
 # Watch the video!
 
-![videopreview](./_img/videopreview.png)
+[![videopreview](./_img/videopreview.png)](https://www.youtube.com/watch?v=w_4GJnhUDh0)
 
 # Credits
 Contents of this repository are released under an [CC-BY license 4.0](https://creativecommons.org/licenses/by/4.0/) and have been created by Jamie Taylor, under an original idea from Jérémy Bonvoisin. Although we investigated the technical feasibility of this design and know it would work, Adjustabike is still just a concept for now. Feel free to bring it to the next step! We'd love to see lots of them on the streets in the future.
