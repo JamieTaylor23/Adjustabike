@@ -14,5 +14,25 @@ Advantages of the concept:
 
 [![videopreview](./_img/videopreview.png)](https://www.youtube.com/watch?v=w_4GJnhUDh0)
 
+# History
+
+Adjustabike is the last prototype in a row of attempts to design a DIY bicycle, a building kit anyone could assemble at home and reconfigure depending on their daily changing needs. The design rationale of this concept is:
+* Instead of fitting one bicycle for each person or use case (commuting, goods transportation, traveling…), one construction set could do all geometries and sizes.
+* The construction set fits in a box like IKEA furniture, so it can be easily shipped or transported.
+* Unboxing and assembling is quick, easy, and does not require any specific tooling, so it is not reserved for highly skilled people. 
+* The assembly and disassembly processes do not involve any destructive process, so that all materials remain reusable, at best for several lifecycles.
+* It is easy and quick to switch geometries and measurements, so it really adapts to the deily needs of users.
+
+Look at the video hereafter to learn more about this idea and to see the first prototype ever built:
+
+[![videopreview2](./_img/videopreview2.png)](https://youtu.be/1FokTwZMRIM)
+
+We think this idea is sustainable in many ways:
+* High material productivity: the use of non destructive assembly process alow materials to be used several times
+* Qualification and capability building: users learn about bicycles while tweaking their own bike
+* Longer service time: by making their own bicycle, users can build a stronger emotional link to their bike as well as capability and willingness to maintain/repair it.
+* Reduced transport: the compactness of the kit makes it easier to ship in smaller boxes
+
+
 # Credits
 Contents of this repository are released under an [CC-BY license 4.0](https://creativecommons.org/licenses/by/4.0/) and have been created by Jamie Taylor, under an original idea from Jérémy Bonvoisin. Although we investigated the technical feasibility of this design and know it would work, Adjustabike is still just a concept for now. Feel free to bring it to the next step! We'd love to see lots of them on the streets in the future.
