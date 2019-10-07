@@ -1,0 +1,82 @@
+%Open know-how manifest 0.1
+---
+
+# The content of this manifest file is licensed under a Creative Commons Attribution 4.0 International License. 
+# Licenses for modification and distribution of the hardware, documentation, source-code, etc are stated separately.
+
+# Remove any fields that are not used. Comments (beginning with '#') may also be removed.
+
+# Manifest metadata
+
+date-created: 2019-10-07                      # YYYY-MM-DD
+
+manifest-author:
+  name: Jérémy Bonvoisin                            # required | text
+  affiliation: University of Bath, Department of Mechanical Engineering                    # text
+  email: j.bonvoisin@bath.ac.uk                           # email address
+
+manifest-language: English-UK
+
+documentation-language: English-UK
+
+# Properties
+
+title: Adjustabike                             # required | text | A title to identify the thing
+
+description: |                             # required | paragraph
+  Adjustabike is the concept of an open source build your own bike kit. It is made of standard aluminium tubes and custom attachments you can assemble the way you like. It comes with two predefined frame geometries you can switch from, city and cargo, but the idea is that you can develop any standard or exotic bicycle frame out of it!
+
+intended-use: |                            # recommended | Paragraph
+  human powered transportation, commuting, small cargo, bicycle touring
+
+keywords:                                  # At least one keyword is recommended | text array 
+  - cycling
+  - bicycle
+  - cargo bike
+  - material efficiency
+  - DIY
+  - flexible design
+
+project-link: https://github.com/JamieTaylor23/Adjustabike                      # At least project-link or documentation-home is required, otherwise recommended | absolute path URL
+
+contact:
+  name: Jérémy Bonvoisin                            # text
+  affiliation: University of Bath                     # text
+  email: j.bonvoisin[at]bath.ac.uk                           # email address
+  social:
+    - platform: twitter                    # text
+      user-handle: @Du33Jerry                 # text
+
+contributors:                              # recommended
+  - name: Jérémy Bonvoisin                  # text
+    affiliation: University of Bath                   # text
+    email: [j.bonvoisin[at]bath.ac.uk                         # email address
+  - name: Jamie Taylor                # text
+    affiliation: University of Bath                   # text
+
+image: https://github.com/JamieTaylor23/Adjustabike/blob/master/_img/2geometries.png                             # recommended | absolute or relative path
+
+version: 1                           # text
+
+development-stage: concept                 # text
+
+made: false                        # boolean - true or false
+
+derivative-of:  
+  title: DIY Bicycle                           # text | Title of the original
+  web: https://www.youtube.com/watch?v=1FokTwZMRIM&feature=youtu.be                             # URL - Absolute path | web presence location
+
+# License 
+
+license:                                   # At least one license is required | The format should be an SPDX identifier. See https://spdx.org/licenses/hardware: [value] # recommended | The license under which the hardware is released
+  documentation: CC-BY license 4.0                  # recommended | The license under which the documentation is released
+
+licensor: 
+  name: James Taylor                            # text
+  affiliation: University of Bath                     # text
+
+# Documentation
+
+documentation-home: https://github.com/JamieTaylor23/Adjustabike              # At least one of the project-link or documentation-home fields is required | absolute path
+
+archive-download: https://github.com/JamieTaylor23/Adjustabike.git                 # Absolute or relative path
