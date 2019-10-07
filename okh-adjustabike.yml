@@ -1,12 +1,8 @@
 %Open know-how manifest 0.1
 ---
 
-# The content of this manifest file is licensed under a Creative Commons Attribution 4.0 International License. 
-# Licenses for modification and distribution of the hardware, documentation, source-code, etc are stated separately.
-
-# Remove any fields that are not used. Comments (beginning with '#') may also be removed.
-
-# Manifest metadata
+# This is a manifest after Open Know How Standard v1 formated in YAML markup language
+# more info:  https://app.standardsrepo.com/MakerNetAlliance/OpenKnowHow/src/branch/master/1
 
 date-created: 2019-10-07                      # YYYY-MM-DD
 
