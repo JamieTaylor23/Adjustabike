@@ -1,6 +1,3 @@
-%Open know-how manifest 0.1
----
-
 # This is a manifest after Open Know How Standard v1 formated in YAML markup language
 # more info:  https://app.standardsrepo.com/MakerNetAlliance/OpenKnowHow/src/branch/master/1
 
@@ -41,12 +38,12 @@ contact:
   email: j.bonvoisin[at]bath.ac.uk                           # email address
   social:
     - platform: twitter                    # text
-      user-handle: @Du33Jerry                 # text
+      user-handle: "@Du33Jerry"                 # text
 
 contributors:                              # recommended
   - name: Jérémy Bonvoisin                  # text
     affiliation: University of Bath                   # text
-    email: [j.bonvoisin[at]bath.ac.uk                         # email address
+    email: j.bonvoisin[at]bath.ac.uk                         # email address
   - name: Jamie Taylor                # text
     affiliation: University of Bath                   # text
 

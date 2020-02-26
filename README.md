@@ -1,7 +1,7 @@
 
 ![logo](./_img/logo.png)
 
-Adjustabike is the concept of an open source build your own bike kit. It is made of standard aluminium tubes and custom attachments you can assemble the way you like. It comes with two predefined frame geometries you can switch from, city and cargo, but the idea is that you can develop any standard or exotic bicycle frame out of it! 
+Adjustabike is the concept of an open source build your own bike kit. It is made of standard aluminium tubes and custom attachments you can assemble the way you like. It comes with two predefined frame geometries you can switch from, city and cargo, but the idea is that you can develop any standard or exotic bicycle frame out of it!!
 
 ![2geometries](./_img/2geometries.png)
 
