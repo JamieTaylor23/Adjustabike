@@ -47,7 +47,7 @@ contributors:                              # recommended
   - name: Jamie Taylor                # text
     affiliation: University of Bath                   # text
 
-image: https://github.com/JamieTaylor23/Adjustabike/blob/master/_img/2geometries.png                             # recommended | absolute or relative path
+image: https://raw.githubusercontent.com/JamieTaylor23/Adjustabike/master/_img/2geometries.png                             # recommended | absolute or relative path
 
 version: 1                           # text
 
